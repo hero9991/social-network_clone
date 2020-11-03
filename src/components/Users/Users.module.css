@@ -1,0 +1,14 @@
+.users_wrapper{
+     margin-top: 40px
+}
+
+.users_main{
+    margin-top: 20px;
+}
+
+.user{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 2px 0 
+}
